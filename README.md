@@ -1,11 +1,11 @@
 # mlo-project
 
-This is my mlo project 
+This is are mlo project 
 
 Teams
-Aayush Garg
-Sahil Dubey
-Himanish
-Divjot
-Siddharth Sharma
-Shreya
+Aayush Garg,
+Sahil Dubey,
+Himanish Kaushal,
+Divjot Singh,
+Siddharth Sharma,
+Shreya,
