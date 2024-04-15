@@ -1,6 +1,6 @@
 # mlo-project
 
-This is are mlo project 
+This is our mlo project 
 
 Teams
 Aayush Garg,
